@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "lastpraiseofmaggot:chicken_poop"
+    },
+    {
+      "item": "lastsongofelysian:biological_residue"
+    }
+  ],
+  "result": {
+    "item": "lastpraiseofmaggot:honkai_chicken_poop",
+    "count": 1
+  }
+}

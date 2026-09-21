@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DID",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "lastpraiseofmaggot:yellow_purple_dye"
+    },
+    "I": {
+      "item": "minecraft:iron_chestplate"
+    }
+  },
+  "result": {
+    "item": "lastpraiseofmaggot:nameless_town_chestplate"
+  }
+}

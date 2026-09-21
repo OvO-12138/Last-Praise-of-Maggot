@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ovo.lastpraiseofmaggot.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.lastpraiseofmaggot.refmap.json",
+  "mixins": [
+    "RangedAttributeAccessor",
+    "LegacyBlockEntityMixin",
+    "ChickenEggMixin"
+  ]
+}

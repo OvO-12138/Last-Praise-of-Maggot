@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "lastpraiseofmaggot:chicken_poop"
+    },
+    {
+      "item": "lastpraiseofmaggot:yellow_purple_dye"
+    }
+  ],
+  "result": {
+    "item": "lastpraiseofmaggot:yellow_purple_chicken_poop",
+    "count": 1
+  }
+}
